@@ -1,0 +1,5 @@
+# GitHub Pages (Jekyll) settings for the legal site. Pages are served without the .html
+# extension: /terms, /privacy, /guidelines, /faq.
+title: Anagram
+description: Anonymous rooms for your group chats
+theme: jekyll-theme-minimal
